@@ -6,10 +6,10 @@ const navBar = {
 // Main Body SECTION
 const mainBody = {
   gradientColors: "#4484ce, #1ad7c0, #ff9b11, #9b59b6, #ff7f7f, #ecf0f1",
-  firstName: "Hashir",
-  middleName: "",
-  lastName: "Shoaib",
-  message: " Passionate about changing the world with technology. ",
+  firstName: "Domenico",
+  middleName: "(Nico)",
+  lastName: "Ceresa",
+  message: " Passionate about using ML to build a brighter future ",
   icons: [
     {
       image: "fa-github",
@@ -96,17 +96,18 @@ const skills = {
     { name: "React", value: 65 },
     { name: "HTML/CSS", value: 55 },
     { name: "C#", value: 80 },
-  ],
-  softSkills: [
-    { name: "Goal-Oriented", value: 80 },
-    { name: "Collaboration", value: 90 },
-    { name: "Positivity", value: 75 },
-    { name: "Adaptability", value: 85 },
-    { name: "Problem Solving", value: 75 },
-    { name: "Empathy", value: 90 },
-    { name: "Organization", value: 70 },
-    { name: "Creativity", value: 90 },
-  ],
+  ]
+  // ,
+  // softSkills: [
+  //   { name: "Goal-Oriented", value: 80 },
+  //   { name: "Collaboration", value: 90 },
+  //   { name: "Positivity", value: 75 },
+  //   { name: "Adaptability", value: 85 },
+  //   { name: "Problem Solving", value: 75 },
+  //   { name: "Empathy", value: 90 },
+  //   { name: "Organization", value: 70 },
+  //   { name: "Creativity", value: 90 },
+  // ],
 };
 
 // GET IN TOUCH SECTION
@@ -114,24 +115,29 @@ const getInTouch = {
   show: true,
   heading: "Get In Touch",
   message:
-    "I'm currently looking for full-time Software Engineering or Machine Learning opportunities! If you know of any positions available, if you have any questions, or if you just want to say hi, please feel free to email me at",
-  email: "hashirshoaeb@gmail.com",
+    "Please feel free to email me at",
+  email: "ceresanico@gmail.com",
 };
 
 const experiences = {
-  show: false,
-  heading: "Experiences",
+  show: True,
+  heading: "Experience",
   data: [
     {
-      role: 'Software Engineer',// Here Add Company Name
-      companylogo: require('../assets/img/dell.png'),
-      date: 'June 2018 – Present',
+      role: 'Data Analytics Intern',// Here Add Company Name
+      companylogo: require('../assets/img/bpm.jpg'),
+      date: 'April 2023 – Present',
     },
     {
-      role: 'Front-End Developer',
-      companylogo: require('../assets/img/boeing.png'),
-      date: 'May 2017 – May 2018',
+      role: 'Co-Founder and VP of the University of Oregon Data Science Club',
+      companylogo: require('../assets/img/oregon_o.png'),
+      date: 'Jan 2023 – June 2023',
     },
+    {
+      role: 'Data Science Learning Assistant',
+      companylogo: require('../assets/img/oregon_o.png'),
+      date: 'Dec 2022 – March 2023',
+    }
   ]
 }
 
