@@ -2,9 +2,9 @@
   "backgroundType": "gradient",
   "plainBackgroundMode": "daylight",
   "gradientColors": "#EE7752, #E73C7E, #23A6D5, #23D5AB",
-  "FirstName": "Hashir",
+  "FirstName": "Domenico",
   "MiddleName": "",
-  "LastName": "Shoaib",
+  "LastName": "Ceresa",
   "devDesc": "| Engineer | Programmer | Web Developer | Photographer | Athlete | Artist ",
   "icons": [
     {
@@ -14,21 +14,9 @@
       "style": "socialicons"
     },
     {
-      "id": 1,
-      "image": "fa-facebook",
-      "url": "https://www.facebook.com/hashir.shoaeb",
-      "style": "socialicons"
-    },
-    {
-      "id": 2,
-      "image": "fa-instagram",
-      "url": "https://www.instagram.com/hashir.shoaeb/",
-      "style": "socialicons"
-    },
-    {
       "id": 3,
       "image": "fa-linkedin",
-      "url": "https://www.linkedin.com/in/hashir-shoaeb/",
+      "url": "https://www.linkedin.com/in/domenico-ceresa/",
       "style": "socialicons"
     }
   ],
